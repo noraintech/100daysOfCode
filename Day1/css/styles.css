@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+    width: 100%;
+}
+
+.surfer {
+    height: 250px;
+    width: 450px;
+    background-size: cover;
+    margin-left: 150px;
+    
+}
+
+.imagen{
+    
+    align-items: center;
+    width: 80%;
+    height: 500;
+    background-color: blue;
+}
+
